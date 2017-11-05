@@ -4,14 +4,14 @@ A complete online banking solutions written in ASP.NET MVC
 
 Bank of Bit is a generic online banking system created to allow new bank customers to be able to sign up for online banking and use it for day to day banking operations.
 
-#Technologies used:
+# Technologies used:
 - DataSource based on MVC model.
 - LINQ to XML Queries to read and process incoming xml files.
 - DataContext object for LINQ queries
 - WCF web services
 - COM port programming
 
-#App Technical Features:
+# App Technical Features:
 - Writes information to text files
 - Performs batch transaction processings
 - Performs extensive validation and error handling
